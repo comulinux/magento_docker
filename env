@@ -1,0 +1,2 @@
+WORKINGDIR=/opt/code/acelerait
+COMPOSE_PROJECT_NAME=acelerait
